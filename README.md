@@ -32,6 +32,10 @@ RESAT Farming Challenge
 <p>💡HTML, CSS를 활용하여 메인 페이지 클론 코딩</p>
 <p>💡슬라이드는 구현하지 않음, 슬라이드 영역은 이미지로 대체</p>
 <p>💡(선택사항) 마우스 호버 시 애니메이션 등 기능 구현</p>
+
+<p><구현한 결과물></p>
+<p>📎: https://allzeroyou.github.io/RESAT_Farming_Challenge/</p>
+
 </td>
 <td>✅</td>
 </tr>
