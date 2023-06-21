@@ -1,0 +1,44 @@
+body {
+  background-color: #dddddd;
+  margin: 24px;
+  font-family: "Gaegu", cursive;
+}
+.timer {
+  display: inline-block;
+  padding: 24px 32px;
+  border-radius: 10px;
+  background: white;
+}
+.timer-part {
+  font-size: 36px;
+  font-weight: bold;
+}
+.timer-btn {
+  width: 50px;
+  height: 50px;
+  margin-left: 16px;
+  border-radius: 50%;
+  border: none;
+  color: white;
+  background-color: #87ceeb;
+  cursor: pointer;
+}
+.timer-btn-start {
+  background: #00b84c;
+}
+.time-btn--stop {
+  background-color: #ff0000;
+}
+.usage {
+  margin-top: 20px;
+  font-size: 24px;
+}
+.usage-title {
+  font-weight: bold;
+  border-top: #dddddd;
+  border-left: #dddddd;
+  border-right: #dddddd;
+  border-bottom: cornflowerblue;
+  border-style: dashed;
+  width: 300px;
+}
