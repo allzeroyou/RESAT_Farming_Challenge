@@ -1,3 +1,15 @@
+.swiper{
+  width:300px;
+  margin-left:30px;
+  margin-right:30px;
+  border-radius: 20px;
+}
+.swiper-button-prev,
+.swiper-button-next{
+  display:none;
+}
+
+  
 #wrap {
   width: 100%;
 }
